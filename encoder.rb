@@ -19,3 +19,5 @@ def encode(message)
 
   puts history.values.last.reverse
 end
+
+encode(message)
